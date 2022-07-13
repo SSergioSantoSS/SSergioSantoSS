@@ -48,6 +48,8 @@ WebDeveloper Front End  | Coti-Informática  |   2021  |   Curso
 ##😎Estatísticas do Git👈
 
 <div align="center">
-  <a
+  <a href="https://github.com/SSergioSantoSS">
+  <img height="170cm" src="https://github-readme-status.vercel.app/api?username=SSergioSantoSS&show_icons=true&theme=dark&includ_all_commits=true&count_private=true"/_>
+  <img height="170cm" src="https://github-readme-status.vercel.app/api/top-langs/?username=SSergioSantoSS&layout=compact&langs_count+7&theme=dark"/_>
 
 

@@ -37,7 +37,7 @@
 
 Descrição        |    Instituição    |    Ano  |   Tipo
 ---------------- |  --------------   | ------- | ---------
-Análise e Des. Sist     | Coti-Informática  |   2022  |  Graduação
+Análise e Des. Sistemas     | Coti-Informática  |   2022  |  Graduação
 WebDeveloper C#         | Coti-Informática  |   2021  |   Curso 
 WebDeveloper Front End  | Coti-Informática  |   2021  |   Curso
 <br>

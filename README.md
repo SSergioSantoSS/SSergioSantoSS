@@ -16,6 +16,8 @@
     (Integração com serviços REST).
   </p>
 </div>
+<br>
+<br>
 
 ##⌨️💻🖱️Tecnologias👈
 
@@ -38,12 +40,15 @@ Descrição        |    Instituição    |    Ano  |   Tipo
 Análise e Des. Sist     | Coti-Informática  |   2022  |  Graduação
 WebDeveloper C#         | Coti-Informática  |   2021  |   Curso 
 WebDeveloper Front End  | Coti-Informática  |   2021  |   Curso
-
+<br>
+<br>
 
 ##🔍👀Redes🎯
 <div>
   <a href="https://www.linkedin.com/in/ssergiosantoss/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+<br>
+<br>
 
 ##😎Estatísticas do Git👈
 

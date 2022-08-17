@@ -40,9 +40,10 @@
 Descrição        |    Instituição    |    Ano  |   Tipo
 ---------------- |  --------------   | ------- | ---------
 Análise e Des. Sistemas     | UNOPAR  |   2022  |  Graduação
+WebDeveloper .NET C#- Avançado        | Coti-Informática  |   2022  | Curso
 WebDeveloper .NET C#         | Coti-Informática  |   2021  |   Curso 
 WebDeveloper Front End  | Coti-Informática  |   2021  |   Curso
-WebDeveloper .NET C#- Avançado        | Coti-Informática  |   2022  | Curso
+
 <br>
 <br>
 
